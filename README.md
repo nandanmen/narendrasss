@@ -1,4 +1,4 @@
-### Hey! 👋
+## Hey! 👋
 
 I'm Nanda. I'm a full-stack dev based in Vancouver, BC, born and raised in Indonesia. 
 
@@ -9,7 +9,7 @@ I currently work as a part-time full-stack developer at Tapestry, building tools
 [My personal site](https://narendras.io/) <br />
 [LinkedIn](https://www.linkedin.com/in/narendrass/)
 
-**Projects**
+### Projects
 
 I like to tinker around with various technologies and making things that solve my own little frustrations. Here's some of my favourites:
 
@@ -19,7 +19,7 @@ Playground is a visual JavaScript debugger built using React, web workers and a 
 [visualizer](https://github.com/narendrasss/visualizer)<br />
 A visualizer for algorithm patterns based off the [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview) course. Originally built because I was having a hard time following some of the concepts (and admittedly, wanting an excuse to use [framer motion](https://www.framer.com/motion/)). I later improved it to use the babel plugin made in the playground project!
 
-**Blog**
+### Blog
 
 Most recently I've been fascinated by interactive articles and blogs (the likes of [Josh Comeau](https://www.joshwcomeau.com/)'s and [Amelia Wattenberger](https://wattenberger.com/)'s), so I started making my own!
 
